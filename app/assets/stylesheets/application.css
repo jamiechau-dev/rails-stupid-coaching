@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  width: 600px;
+  margin-left: 30px;
+ }
+
+
+ .bd-callout {
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #ffffff;
+  border-left-width: 0.25rem;
+  border-radius: 0.25rem;
+}
+
+ .bd-callout-info {
+  border-left-color: #DDDDDD;
+}
+
+
+.div {
+  display: flex;
+}
